@@ -5,24 +5,26 @@
 /* Changing the main font and background colour */
 
 body {
-	font-family: Raleway, sans-serif;
-	background-color: #fffcf8;
+	font-family: finalsix;
+	background-color: #A56FDC;
 }
 
-/* Changing the background colour for the header */
-
-header {
-	background-color: #000060;
-}
 
 /* Changing the background color for the navigation bar */
 
 .navbar {
-	background-color: #fff0e0;
+	background-color: #613673;
+	font-family: novecento sans;
 }
 
 /* Effect on social media buttons */
 
 footer a:hover {
 	opacity: .5;
+	background-color: #FFFFFF;
+}
+.align-text-left {
+}
+.diff {
+	font-family: bebas neue semirounded;
 }
