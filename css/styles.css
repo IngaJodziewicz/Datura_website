@@ -5,7 +5,7 @@
 /* Changing the main font and background colour */
 
 body {
-	font-family: finalsix;
+	font-family: FinalSix, serif;
 	background-color: #A56FDC;
 }
 
@@ -14,7 +14,7 @@ body {
 
 .navbar {
 	background-color: #7D3B99;
-	font-family: novecento sans;
+	font-family:Novecento sans Book, serif;
 	font-size: 20px;
 }
 
@@ -24,10 +24,8 @@ footer a:hover {
 	opacity: .5;
 	background-color: #FFFFFF;
 }
-.align-text-left {
-}
 .diff {
-	font-family: bebas neue semirounded;
+	font-family:Bebas Neue SemiRounded, serif;
 }
 .text{
 	display: flex;
