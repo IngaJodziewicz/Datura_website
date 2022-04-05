@@ -27,10 +27,3 @@ footer a:hover {
 .diff {
 	font-family:Bebas Neue SemiRounded, serif;
 }
-.text{
-	display: flex;
-        align-items: right;
-	
-        justify-content: center
-      
-}
