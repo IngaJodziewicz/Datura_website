@@ -30,3 +30,6 @@ footer a:hover {
 .diff {
 	font-family:Bebas Neue SemiRounded;
 }
+.behind {
+	text-shadow: 15px 15px 20px gray;
+}
