@@ -35,3 +35,6 @@ font-style: normal;
 .behind {
 	text-shadow: 10px 10px 10px black;
 }
+.add {
+	text-align:center;
+}
